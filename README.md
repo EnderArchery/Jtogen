@@ -6,8 +6,8 @@ Enter the options with spaces inbetween, go into the minecraft-world and press C
 
 ### Tip
 
- Make sure you pick a height AND FOV that make your game render all the junks in the render distance (Even at a 45° angle x-rotation)
- Press F3 before starting the process (Ctrl+.) as the first of your rotations is the generation progress in % (0 = 0%, 100 = 100%)
+   Make sure you pick a height AND FOV that make your game render all the junks in the render distance (Even at a 45° angle x-rotation)
+   Press F3 before starting the process (Ctrl+.) as the first of your rotations is the generation progress in % (0 = 0%, 100 = 100%)
 
 ### Recommended
 
@@ -17,7 +17,7 @@ Enter the options with spaces inbetween, go into the minecraft-world and press C
 
 ### Releases
 
- [Download](./Releases/Jtogen.zip)
+   [Download](./Releases/Jtogen.zip)
 
  - [Jtogen 2.3.3](./Releases/Jtogen_2.3.3.zip)
 
