@@ -17,7 +17,7 @@ Enter the options with spaces inbetween, go into the minecraft-world and press C
 
 ### Releases
 
-   [Download](./Releases/Jtogen.zip)
+&nbsp;&nbsp;&nbsp;#### [Download](./Releases/Jtogen.zip)
 
  - [Jtogen 2.3.3](./Releases/Jtogen_2.3.3.zip)
 
