@@ -15,7 +15,7 @@ Enter the options with spaces inbetween, go into the minecraft-world and press C
  - heigth 200
  - FOV max
 
-### Releasesh <h1>[Download](./Releases/Jtogen.zip)</h1>
+### Releases <h5>[Download](./Releases/Jtogen.zip)</h1>
 
  - [Jtogen 2.3.3](./Releases/Jtogen_2.3.3.zip)
 
