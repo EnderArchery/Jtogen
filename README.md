@@ -16,7 +16,8 @@ Enter the options with spaces inbetween, go into the minecraft-world and press C
  - FOV max
 
 ### Releases
-&nbsp;[Download](./Releases/Jtogen.zip)
+
+#####[Download](./Releases/Jtogen.zip)
 
  - [Jtogen 2.3.3](./Releases/Jtogen_2.3.3.zip)
 
