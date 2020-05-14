@@ -56,7 +56,6 @@ async function setup() {
           return x
         }
       });
-      console.log(input.toString());
       [input, x, y, z, minDistance, maxDistance, viewDistance, player, tpDelay, /*typeDelay,*/ chatKey] = input
       break;
     }
