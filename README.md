@@ -1,5 +1,5 @@
 # Jtogen
-[Jtogen 2.3.3](./Releases/Jtogen.zip) by EnderArchery
+[Jtogen](..//Jtogen#releases) by EnderArchery
 
 Pregenerate minecraft terrain with nothing else but the tp-command
 Enter the options with spaces inbetween, go into the minecraft-world and press Ctrl+.
