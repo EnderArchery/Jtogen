@@ -1,5 +1,5 @@
 # Jtogen
-[Jtogen](#releases-download) by EnderArchery
+[Jtogen](#releases) by EnderArchery
 
 Pregenerate minecraft terrain with nothing else but the tp-command
 Enter the options with spaces inbetween, go into the minecraft-world and press Ctrl+.
@@ -15,7 +15,8 @@ Enter the options with spaces inbetween, go into the minecraft-world and press C
  - heigth 200
  - FOV max
 
-### Releases <h5>[Download](./Releases/Jtogen.zip)</h1>
+### Releases
+&nbsp;[Download](./Releases/Jtogen.zip)
 
  - [Jtogen 2.3.3](./Releases/Jtogen_2.3.3.zip)
 
