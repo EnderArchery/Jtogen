@@ -1,15 +1,15 @@
 # Jtogen
-[Jtogen](#releases:) by EnderArchery
+[Jtogen](#releases) by EnderArchery
 
 Pregenerate minecraft terrain with nothing else but the tp-command
 Enter the options with spaces inbetween, go into the minecraft-world and press Ctrl+.
 
-### Tip:
+### Tip
 
  Make sure you pick a height AND FOV that make your game render all the junks in the render distance (Even at a 45° angle x-rotation)
  Press F3 before starting the process (Ctrl+.) as the first of your rotations is the generation progress in % (0 = 0%, 100 = 100%)
 
-### Recommended:
+### Recommended
 
  - View distance 10
  - heigth 200
@@ -17,11 +17,11 @@ Enter the options with spaces inbetween, go into the minecraft-world and press C
 
 ### [Download](./Releases/Jtogen.zip)
 
-#### Releases:
+#### Releases
 
  - [Jtogen 2.3.3](./Releases/Jtogen_2.3.3.zip)
 
-### Changelog:
+### Changelog
 
   |Version|Changes|
   |---:|---|
