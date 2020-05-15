@@ -20,6 +20,7 @@ Enter the options with spaces inbetween, go into the minecraft-world and press C
 [<h6>Download</h6>](./Releases/Jtogen.zip)
 
  - [Jtogen 2.3.3](./Releases/Jtogen_2.3.3.zip)
+ - [Jtogen 2.3.4](./Releases/Jtogen_2.3.4.zip)
 
 ### Changelog
 
@@ -35,3 +36,4 @@ Enter the options with spaces inbetween, go into the minecraft-world and press C
   |2.3.1|<ul><li>Reformatting explanations</li></ul>|
   |2.3.2|<ul><li>Negative x- and z-coordinates are accepted now</li></ul>|
   |2.3.3|<ul><li>Fixed broken behaviour (handling coordintes as strings, teleporting to wrong locations when starting point isn't 0 0)</li></ul>|
+  |2.3.4|<ul><li>Updated dependencies</li><li>Removed input logging to console</lit></ul>
