@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/EnderArchery/Jtogen.git"
+    "url": "git://github.com/EnderArchery/Jtogen.git"
   },
   "author": "EnderArchery",
   "license": "MIT",
