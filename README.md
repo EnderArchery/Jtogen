@@ -88,7 +88,7 @@ Enter the options with spaces inbetween, go into the minecraft-world and press `
       <td>
         <ul>
           <li>
-            Changed shortcut to `Ctrl`+`.`
+            Changed shortcut to <code>Ctrl</code>+<code>.</code>
           </li>
         </ul>
       </td>
@@ -185,3 +185,5 @@ Enter the options with spaces inbetween, go into the minecraft-world and press `
 
 
 
+
+&zwnj;
