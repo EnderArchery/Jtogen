@@ -1,7 +1,9 @@
 # Jtogen
 [Jtogen](#latest-release) by EnderArchery
 
-Pregenerate minecraft terrain with nothing else but the tp-command  
+Pre-generate Minecraft terrain without plugins, command blocks, console access, or other trickery.
+It just uses your keyboard to make the appropriate inputs.
+
 Enter the options with spaces inbetween, go into the minecraft-world and press Ctrl+.
 
 ### Tip
