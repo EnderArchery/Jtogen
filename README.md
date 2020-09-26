@@ -159,7 +159,7 @@ Enter the options with spaces inbetween, go into the minecraft-world and press `
       <td>
         <ul>
           <li>
-            Fixed broken behaviour (handling coordintes as strings, teleporting to wrong locations when starting point isn't 0 0)
+            Fixed broken behaviour (handling coordinates as strings, teleporting to wrong locations when starting point isn't 0 0)
           </li>
         </ul>
       </td>
