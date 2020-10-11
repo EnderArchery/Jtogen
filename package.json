@@ -1,5 +1,5 @@
 {
-  "name": "Jtogen",
+  "name": "jtogen",
   "version": "2.3.5",
   "description": "Pregenerate minecraft terrain with nothing else but the tp-command",
   "main": "index.js",
