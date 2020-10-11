@@ -18,7 +18,7 @@ Enter the options with spaces inbetween, go into the minecraft-world and press `
  - FOV max
 
 ### Latest Release
-#### [(2.3.4)](./Releases/Jtogen.zip)
+#### [(2.3.5)](./Releases/Jtogen.zip)
 
 ### Changelog
   <table>
@@ -183,7 +183,7 @@ Enter the options with spaces inbetween, go into the minecraft-world and press `
     </tr>
     <tr>
       <td>
-        <a href="./Releases/Jtogen_2.3.4.zip">
+        <a href="./Releases/Jtogen_2.3.5.zip">
           2.3.5
         </a>
       </td>
