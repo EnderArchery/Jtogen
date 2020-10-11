@@ -181,4 +181,18 @@ Enter the options with spaces inbetween, go into the minecraft-world and press `
         </ul>
       </td>
     </tr>
+    <tr>
+      <td>
+        <a href="./Releases/Jtogen_2.3.4.zip">
+          2.3.5
+        </a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            Updated dependencies
+          </li>
+        </ul>
+      </td>
+    </tr>
   </table>
