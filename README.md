@@ -9,6 +9,7 @@ Enter the options with spaces inbetween, go into the minecraft-world and press `
 ### Tip
 
    Make sure you pick a height AND FOV that make your game render all the chunks in the render distance (Even at a 45° angle x-rotation)
+
    Press F3 before starting the process (`Ctrl`+`.`) as the first of your rotations is the generation progress in % (0 = 0%, 100 = 100%)
 
 ### Recommended
